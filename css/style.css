@@ -1,0 +1,25 @@
+* {
+    background-color: beige;
+    font-family: 'Arial', 'Times New Roman', 'sans-serif';
+    font-size: 24px;
+}
+
+h1,
+h2 {
+    background-color: #eed88e;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 34px;
+}
+
+a {
+    color: #c33
+}
+
+.home {
+    text-align: center;
+}
