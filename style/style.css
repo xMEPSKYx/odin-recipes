@@ -1,0 +1,17 @@
+* {
+    font-family: Tahoma, sans-serif;
+    background-color: hsl(31, 40%, 80%);
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+    background-color: #c0873d;
+    text-align: center;
+}
+
+.main-image {
+    width: 300px;
+    height: auto;
+}
